@@ -4,6 +4,7 @@
 [Read this page in English](https://github.com/awgui/indra/README.md)
 
 Este é um tema simples que criei baseado no anime Naruto.
+Veja como ficaria o tema em seu Discord: [Preview](https://gibbu.github.io/ThemePreview/?file=https://xisde.tk/assets/Indra.css)
 
 ![](https://i.postimg.cc/J4Dh30bT/unknown.png)
 
