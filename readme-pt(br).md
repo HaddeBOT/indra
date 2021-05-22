@@ -1,33 +1,33 @@
 # Otsutsuki Indra
-> BetterDiscord theme about anime Naruto "Otsutsuki Indra"
+> Tema BetterDiscord sobre anime Naruto "Otsutsuki Indra"
 
 [Read this page in English](https://github.com/awgui/indra/README.md)
 
-This is a simple theme that I created based on the Naruto anime.
+Este é um tema simples que criei baseado no anime Naruto.
 
 ![](https://i.postimg.cc/J4Dh30bT/unknown.png)
 
-## 2. Installing a theme
-First of all, make sure you have installed BetterDiscord (https://betterdiscord.app/)
+## 2. Instalando um tema
+Em primeiro lugar, certifique-se de que instalou BetterDiscord (https://betterdiscord.app/)
 
-Step 1: Download the theme.<br/>
-Step 2: Save the file somewhere you can find it.<br/>
-Step 3: Open the themes folder:<br/>
-◽️ Go to your Discord's settings.<br/>
-◽️ Under themes, click on the "Open themes folder" button.
+Step 1: Baixe o tema.<br/>
+Step 2: Salve o arquivo em um local onde possa encontrá-lo.<br/>
+Step 3: Abra a pasta de temas:<br/>
+◽️ Vá para as configurações do seu Discord.<br/>
+◽️ Em cima dos temas, clique no botão "Abrir pasta de temas".
 
-Step 4: Put the theme file inside the themes folder.<br/>
-Step 5: Reload Discord using CTRL+R (or CMD+R on MacOS).<br/>
-Step 6: Enable the theme:<br/>
-◽️ Go to your Discord's settings.<br/>
-◽️ Under themes, enable your theme by clicking the switch on the right.<br/><br/>
+Step 4: Coloque o arquivo do tema dentro da pasta de temas.<br/>
+Step 5: Recarregue o Discord usando CTRL + R (ou CMD + R no MacOS).<br/>
+Step 6: Habilite o tema:<br/>
+◽️ Vá para as configurações do seu Discord.<br/>
+◽️ Em temas, ative seu tema clicando no botão à direita.<br/><br/>
 
->This theme is based on a character but I added options for you to change the theme image if you want.
->You may want to use another image of the character.
+>Este tema é baseado em um personagem, mas adicionei opções para você alterar a imagem do tema, se desejar.
+>Você pode querer usar outra imagem do personagem.
 
 ```CSS
 --background-image: url('URL LINK');
 --user-popup-background: url('URL LINK');
 
-/* You can change this in the theme options. */
+/* Você pode alterar isso nas opções de tema. */
 ```
