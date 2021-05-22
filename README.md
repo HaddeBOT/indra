@@ -18,10 +18,13 @@ Step 4: Put the theme file inside the themes folder.<br/>
 Step 5: Reload Discord using CTRL+R (or CMD+R on MacOS).<br/>
 Step 6: Enable the theme:<br/>
 ◽️ Go to your Discord's settings.<br/>
-◽️ Under themes, enable your theme by clicking the switch on the right.
+◽️ Under themes, enable your theme by clicking the switch on the right.<br/><br/>
 
-```Javascript
-if (isAwesome){
-  return true
-}
+>This theme is based on a character but I added options for you to change the theme image if you want.
+
+```CSS
+--background-image: url('URL LINK');
+--user-popup-background: url('URL LINK');
+
+/* You can change this in the theme options. */
 ```
