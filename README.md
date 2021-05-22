@@ -20,7 +20,7 @@ Step 6: Enable the theme:<br/>
 ◽️ Go to your Discord's settings.<br/>
 ◽️ Under themes, enable your theme by clicking the switch on the right.
 
-```
+```Javascript
 if (isAwesome){
   return true
 }
