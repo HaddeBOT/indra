@@ -1,0 +1,27 @@
+/**
+* @name Ōtsutsuki Indra
+* @version 1.0.0
+* @description Tema de Naruto Personagem: Ōtsutsuki Indra
+* @author gui#0002
+* @invite NkrusKqJ3N
+* @Source https://github.com/awgui/indra
+* @website https://xisde.tk
+*/
+@import url("https://xisde.tk/assets/Indra.css");
+@import url("https://xisde.tk/assets/Badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+:root {
+--background-image: url('https://i.postimg.cc/1zZLvGt3/4082150.jpg');
+--user-popup-background: url('https://i.postimg.cc/1zZLvGt3/4082150.jpg');
+
+--rs-small-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-streaming-color: #643da7;
+--rs-offline-color: #636b75;
+--rs-invisible-color: #747f8d;
+}
