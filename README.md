@@ -1,6 +1,5 @@
 # Otsutsuki Indra
 > BetterDiscord theme about anime Naruto "Otsutsuki Indra"
-
 [Read this page in portuguese(PT-BR)](https://github.com/awgui/indra/blob/main/readme-pt(br).md)
 
 This is a simple theme that I created based on the Naruto anime.<br/>
