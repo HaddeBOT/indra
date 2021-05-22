@@ -5,17 +5,23 @@ This is a simple theme that I created based on the Naruto anime.
 
 ![](https://i.postimg.cc/J4Dh30bT/unknown.png)
 
-## Instalação
-Em primeiro lugar, certifique-se de que instalou BetterDiscord (https://betterdiscord.app/)
+## 2. Installing a theme
+First of all, make sure you have installed BetterDiscord (https://betterdiscord.app/)
 
-Setup 1: Baixe o tema.
+Step 1: Download the theme.
+Step 2: Save the file somewhere you can find it.
+Step 3: Open the themes folder:
+◽️ Go to your Discord's settings.
+◽️ Under themes, click on the "Open themes folder" button.
 
-Setup 2: Salve o arquivo em algum lugar onde possa encontrá-lo.
+Step 4: Put the theme file inside the themes folder.
+Step 5: Reload Discord using CTRL+R (or CMD+R on MacOS).
+Step 6: Enable the theme:
+◽️ Go to your Discord's settings.
+◽️ Under themes, enable your theme by clicking the switch on the right.
 
-Setup 3: Abra a pasta de temas: white_medium_small_square Vá para as configurações do Discord white_medium_small_square Em temas, clique no botão "Abrir pasta de temas".
-
-Setup 4: Coloque o arquivo do tema dentro da pasta de temas.
-
-Setup 5: Recarregue o Discord usando CTRL + R (ou CMD + R no MacOS).
-
-Setup 6: Ative o tema: white_medium_small_square Vá para as configurações do Discord white_medium_small_square Em temas, ative seu tema clicando o switch à direita.
+```
+if (isAwesome){
+  return true
+}
+```
