@@ -21,6 +21,7 @@ Step 6: Enable the theme:<br/>
 ◽️ Under themes, enable your theme by clicking the switch on the right.<br/><br/>
 
 >This theme is based on a character but I added options for you to change the theme image if you want.
+>You may want to use another image of the character.
 
 ```CSS
 --background-image: url('URL LINK');
