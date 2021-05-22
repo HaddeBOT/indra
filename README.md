@@ -4,6 +4,7 @@
 [Read this page in portuguese(PT-BR)](https://github.com/awgui/indra/blob/main/readme-pt(br).md)
 
 This is a simple theme that I created based on the Naruto anime.
+Check the theme on Gibbu's previews theme: [Preview](https://gibbu.github.io/ThemePreview/?file=https://xisde.tk/assets/Indra.css)
 
 ![](https://i.postimg.cc/J4Dh30bT/unknown.png)
 
